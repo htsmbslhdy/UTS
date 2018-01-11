@@ -1,0 +1,73 @@
+<!--
+  Copyright 2016 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Kopi Hitam</string>
+    <string name="news_placeholder">Harga</string>
+    <string name="sports_info_placeholder">Rp. 10000</string>
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at semper turpis. Fusce scelerisque magna magna, a condimentum nibh pharetra eu. Vestibulum viverra quis ante sit amet scelerisque. Curabitur blandit, turpis quis imperdiet tempor, mauris dolor tempus tellus, sit amet volutpat lectus velit eget erat. Nullam sed elit a metus porta sodales. Curabitur tempor, erat ac congue finibus, nibh tortor blandit ipsum, id viverra lectus nisi nec sem. Aenean in gravida mauris.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="sports_titles">
+        <item>Batagor</item>
+        <item>Capuchino</item>
+        <item>Blacksalad</item>
+        <item>Cheese Cake</item>
+        <item>Cireng</item>
+        <item>Donut</item>
+        <item>Running</item>
+        <item>Mie Goreng</item>
+        <item>Nasi Goreng</item>
+        <item>Sparkling Tea</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+        <item>Rp.10000</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/batagor</item>
+        <item>@drawable/cappuchino</item>
+        <item>@drawable/black_salad</item>
+        <item>@drawable/cheesecake</item>
+        <item>@drawable/cireng</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/kopi_hitam</item>
+        <item>@drawable/mie_goreng</item>
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/sparkling_tea</item>
+    </array>
+
+    <array name="name_makananan">
+        <item>Kopi Hitam</item>
+        <item>Capucinno</item>
+
+    </array>
+
+
+</resources>
